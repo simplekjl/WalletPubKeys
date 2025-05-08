@@ -7,8 +7,7 @@
       "kid": "b572bb22-1780-4453-be25-61cd0032cb25",
       "x": "V0f5y9ftuDWRghILah89Dst6mg3F4qmIoxHXwVVYyRE",
       "y": "hfyTdXFEak-asOiQkInNnBSpinOga-PpuWyNG0cE1jU",
-      "alg": "ECDH-ES",
-      "iat": 1746718167
+      "alg": "ECDH-ES"
     }
   ]
 }
